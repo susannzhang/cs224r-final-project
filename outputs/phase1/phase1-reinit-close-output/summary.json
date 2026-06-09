@@ -1,0 +1,41 @@
+{
+  "run_id": "phase1-reinit-close",
+  "total_fdfd_samples": 15760,
+  "per_goal": [
+    {
+      "target": 0,
+      "tf_original": null,
+      "tf_reinit": 0.2742086257280895,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 9,
+      "tf_original": null,
+      "tf_reinit": 0.027514132292511623,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 12,
+      "tf_original": null,
+      "tf_reinit": 0.5680750667096993,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 18,
+      "tf_original": null,
+      "tf_reinit": 0.03287168611720128,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 21,
+      "tf_original": null,
+      "tf_reinit": 0.577923497328912,
+      "delta": null,
+      "verdict": "?"
+    }
+  ]
+}

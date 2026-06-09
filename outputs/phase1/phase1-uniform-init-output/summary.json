@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "target_idx": 0,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 267447.6481335314,
+      "n_transitions": 46000
+    },
+    {
+      "target_idx": 3,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 390537.973588509,
+      "n_transitions": 50000
+    },
+    {
+      "target_idx": 6,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 383072.7806272543,
+      "n_transitions": 50000
+    },
+    {
+      "target_idx": 9,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 252080.90877458602,
+      "n_transitions": 50000
+    },
+    {
+      "target_idx": 12,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 366302.1344295871,
+      "n_transitions": 49000
+    },
+    {
+      "target_idx": 15,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 390840.3751268549,
+      "n_transitions": 50000
+    },
+    {
+      "target_idx": 18,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 371404.7321221217,
+      "n_transitions": 49000
+    },
+    {
+      "target_idx": 21,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 386253.1743850796,
+      "n_transitions": 50000
+    },
+    {
+      "target_idx": 24,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 403889.98414484557,
+      "n_transitions": 50000
+    },
+    {
+      "target_idx": 27,
+      "iterations": 250,
+      "converged": false,
+      "best_reward": 400972.68142318627,
+      "n_transitions": 50000
+    }
+  ],
+  "total_transitions": 494000
+}

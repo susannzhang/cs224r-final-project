@@ -1,0 +1,62 @@
+{
+  "run_id": "phase1-reinit-anneal-20260602-125130",
+  "total_fdfd_samples": 38334,
+  "per_goal": [
+    {
+      "target": 6,
+      "tf_original": null,
+      "tf_reinit": 0.6673080320744995,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 9,
+      "tf_original": null,
+      "tf_reinit": 0.101615915243568,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 12,
+      "tf_original": null,
+      "tf_reinit": 0.6268272400344239,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 15,
+      "tf_original": null,
+      "tf_reinit": 0.6725369832930577,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 18,
+      "tf_original": null,
+      "tf_reinit": 0.32318329667524076,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 21,
+      "tf_original": null,
+      "tf_reinit": 0.1477885615986572,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 24,
+      "tf_original": null,
+      "tf_reinit": 0.7160399901049823,
+      "delta": null,
+      "verdict": "?"
+    },
+    {
+      "target": 27,
+      "tf_original": null,
+      "tf_reinit": 0.7091993651648758,
+      "delta": null,
+      "verdict": "?"
+    }
+  ]
+}

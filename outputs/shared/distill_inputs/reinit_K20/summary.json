@@ -1,0 +1,121 @@
+{
+  "source_dir": "/private/tmp/phase1_reinit_dl",
+  "drop_first_iters": 0,
+  "exclude_goals": [],
+  "min_final_tf": 0.0,
+  "n_goals_kept": 10,
+  "n_goals_skipped": 0,
+  "total_transitions": 2316,
+  "per_goal": [
+    {
+      "n_iter": 250,
+      "complete": false,
+      "buffer_len": 5251,
+      "n_baselines_extracted": 250,
+      "traj_steps_after_drop": 250,
+      "drop_first": 0,
+      "best_tf": 0.6851307152024653,
+      "goal": 0,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_00.pkl"
+    },
+    {
+      "n_iter": 250,
+      "complete": true,
+      "buffer_len": 5252,
+      "n_baselines_extracted": 251,
+      "traj_steps_after_drop": 251,
+      "drop_first": 0,
+      "best_tf": 0.7229242312652358,
+      "goal": 3,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_03.pkl"
+    },
+    {
+      "n_iter": 225,
+      "complete": false,
+      "buffer_len": 4726,
+      "n_baselines_extracted": 225,
+      "traj_steps_after_drop": 225,
+      "drop_first": 0,
+      "best_tf": 0.6710633249128732,
+      "goal": 6,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_06.pkl"
+    },
+    {
+      "n_iter": 225,
+      "complete": false,
+      "buffer_len": 4726,
+      "n_baselines_extracted": 225,
+      "traj_steps_after_drop": 225,
+      "drop_first": 0,
+      "best_tf": 0.32332887502439606,
+      "goal": 9,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_09.pkl"
+    },
+    {
+      "n_iter": 225,
+      "complete": false,
+      "buffer_len": 4726,
+      "n_baselines_extracted": 225,
+      "traj_steps_after_drop": 225,
+      "drop_first": 0,
+      "best_tf": 0.5729613106725588,
+      "goal": 12,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_12.pkl"
+    },
+    {
+      "n_iter": 225,
+      "complete": false,
+      "buffer_len": 4726,
+      "n_baselines_extracted": 225,
+      "traj_steps_after_drop": 225,
+      "drop_first": 0,
+      "best_tf": 0.6786831140729228,
+      "goal": 15,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_15.pkl"
+    },
+    {
+      "n_iter": 225,
+      "complete": false,
+      "buffer_len": 4726,
+      "n_baselines_extracted": 225,
+      "traj_steps_after_drop": 225,
+      "drop_first": 0,
+      "best_tf": 0.6673579580046829,
+      "goal": 18,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_18.pkl"
+    },
+    {
+      "n_iter": 225,
+      "complete": false,
+      "buffer_len": 4726,
+      "n_baselines_extracted": 225,
+      "traj_steps_after_drop": 225,
+      "drop_first": 0,
+      "best_tf": 0.07555249081329744,
+      "goal": 21,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_21.pkl"
+    },
+    {
+      "n_iter": 225,
+      "complete": false,
+      "buffer_len": 4726,
+      "n_baselines_extracted": 225,
+      "traj_steps_after_drop": 225,
+      "drop_first": 0,
+      "best_tf": 0.7140533327288396,
+      "goal": 24,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_24.pkl"
+    },
+    {
+      "n_iter": 250,
+      "complete": false,
+      "buffer_len": 5251,
+      "n_baselines_extracted": 250,
+      "traj_steps_after_drop": 250,
+      "drop_first": 0,
+      "best_tf": 0.7070402317663598,
+      "goal": 27,
+      "source": "/private/tmp/phase1_reinit_dl/state_target_27.pkl"
+    }
+  ]
+}

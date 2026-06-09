@@ -1,0 +1,44 @@
+{
+  "runs_dirs": [
+    "distill_inputs/reinit_K20",
+    "distill_inputs/sigma_anneal"
+  ],
+  "n_trajectories": 15,
+  "n_transitions": 3187,
+  "n_train": 2869,
+  "n_val": 318,
+  "val_by_goal": false,
+  "trajectory_goals": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27
+  ],
+  "config": {
+    "hidden_dim": 256,
+    "n_hidden_layers": 3,
+    "tanh_output_scale": 0.5,
+    "n_goals": 30
+  },
+  "training": {
+    "epochs": 200,
+    "batch_size": 128,
+    "lr": 0.001,
+    "weight_decay": 1e-05,
+    "seed": 0
+  },
+  "final_train_loss": 0.00017256748232403365,
+  "final_val_loss": 0.00018207920948043466,
+  "delta_stats": {
+    "mean_abs": 0.009879924356937408,
+    "max_abs": 0.08730340003967285,
+    "std": 0.013158661313354969
+  },
+  "elapsed_seconds": 4.010382890701294
+}

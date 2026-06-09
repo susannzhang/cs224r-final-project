@@ -1,0 +1,31 @@
+{
+  "config_kwargs": {
+    "K": 20,
+    "sigma": 0.1,
+    "alpha_1": 0.05,
+    "M": 12,
+    "eta": 0.01,
+    "log_every": 1,
+    "K_elite": null,
+    "w_crosstalk": 0.3,
+    "w_loss": 0.001,
+    "w_energy": 0.1
+  },
+  "training_indices": [
+    15
+  ],
+  "fps": 4,
+  "plateau_window": 5,
+  "plateau_tol": 0.005,
+  "figsize": [
+    12.0,
+    10.0
+  ],
+  "dpi": 90,
+  "spawned": [
+    {
+      "target_idx": 15,
+      "function_call_id": "fc-01KT7XV5T4CX0WBREQ970BNT0B"
+    }
+  ]
+}

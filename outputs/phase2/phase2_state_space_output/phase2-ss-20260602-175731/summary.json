@@ -1,0 +1,111 @@
+{
+  "launch_id": "phase2-ss-20260602-175731",
+  "goal_indices": [
+    1,
+    4,
+    7,
+    10,
+    13,
+    16,
+    19,
+    22,
+    25,
+    28
+  ],
+  "mean_target_frac": 0.6470361149045617,
+  "mean_Q": 215116.77678899298,
+  "total_fdfd_solves": 10500,
+  "elapsed_seconds": 2762.19432926178,
+  "per_goal": [
+    {
+      "goal": 1,
+      "best_target_frac": 0.6965200342582156,
+      "best_Q": 279238.97057401645,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1424.7812705039978
+    },
+    {
+      "goal": 4,
+      "best_target_frac": 0.7055163493289733,
+      "best_Q": 248907.9948995243,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1349.3629086017609
+    },
+    {
+      "goal": 7,
+      "best_target_frac": 0.6799739486566762,
+      "best_Q": 228496.4329304168,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1379.0562644004822
+    },
+    {
+      "goal": 10,
+      "best_target_frac": 0.4387737895034329,
+      "best_Q": 75355.78030185618,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1360.601324558258
+    },
+    {
+      "goal": 13,
+      "best_target_frac": 0.6660137533676298,
+      "best_Q": 221298.7842414703,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1358.620970249176
+    },
+    {
+      "goal": 16,
+      "best_target_frac": 0.6555328729773674,
+      "best_Q": 220971.8022879651,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1405.5291426181793
+    },
+    {
+      "goal": 19,
+      "best_target_frac": 0.4806663137105044,
+      "best_Q": 90409.71410108515,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1379.69877743721
+    },
+    {
+      "goal": 22,
+      "best_target_frac": 0.7148547436578147,
+      "best_Q": 254534.75552258722,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1365.7878794670105
+    },
+    {
+      "goal": 25,
+      "best_target_frac": 0.7251718685119082,
+      "best_Q": 266779.77634464024,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1363.3144989013672
+    },
+    {
+      "goal": 28,
+      "best_target_frac": 0.7073374750730951,
+      "best_Q": 265173.75668636826,
+      "iterations": 50,
+      "converged": false,
+      "n_fdfd_total": 1050,
+      "elapsed_seconds": 1409.9919810295105
+    }
+  ]
+}

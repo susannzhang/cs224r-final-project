@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "target_idx": 15,
+      "mp4_status": "96 KB",
+      "frames_rendered": 4,
+      "stopped_for_plateau": false,
+      "best_target_frac_final": 0.09633879343917671,
+      "pngs_downloaded": 4
+    }
+  ]
+}

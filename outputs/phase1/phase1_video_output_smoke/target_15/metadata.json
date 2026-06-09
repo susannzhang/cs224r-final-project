@@ -1,0 +1,68 @@
+{
+  "target_idx": 15,
+  "frames_rendered": 4,
+  "iterations_run": 4,
+  "stopped_for_plateau": false,
+  "converged_eta": false,
+  "best_reward_final": 6645.233699997261,
+  "best_target_frac_final": 0.09633879343917671,
+  "target_frac_history": [
+    0.043160729998690264,
+    0.07014437154383274,
+    0.09633879343917671,
+    0.09633879343917671
+  ],
+  "history": [
+    {
+      "iteration": 0,
+      "pop_reward_mean": -10682.910382125625,
+      "pop_reward_best": -4013.520853708968,
+      "pop_target_fraction_best": 0.043160729998690264,
+      "best_ever_reward": -4013.520853708968,
+      "best_ever_target_fraction": 0.043160729998690264,
+      "critic_loss": null
+    },
+    {
+      "iteration": 1,
+      "pop_reward_mean": -6507.919049967786,
+      "pop_reward_best": 703.7069551051115,
+      "pop_target_fraction_best": 0.07014437154383274,
+      "best_ever_reward": 703.7069551051115,
+      "best_ever_target_fraction": 0.07014437154383274,
+      "critic_loss": null
+    },
+    {
+      "iteration": 2,
+      "pop_reward_mean": -1963.025839248954,
+      "pop_reward_best": 4840.290358459559,
+      "pop_target_fraction_best": 0.09633879343917671,
+      "best_ever_reward": 4840.290358459559,
+      "best_ever_target_fraction": 0.09633879343917671,
+      "critic_loss": null
+    },
+    {
+      "iteration": 3,
+      "pop_reward_mean": 756.9181370710584,
+      "pop_reward_best": 6645.233699997261,
+      "pop_target_fraction_best": 0.0958923787440848,
+      "best_ever_reward": 6645.233699997261,
+      "best_ever_target_fraction": 0.09633879343917671,
+      "critic_loss": null
+    }
+  ],
+  "config_kwargs": {
+    "K": 20,
+    "sigma": 0.1,
+    "alpha_1": 0.05,
+    "M": 4,
+    "eta": 0.01,
+    "log_every": 1,
+    "K_elite": null,
+    "w_crosstalk": 0.3,
+    "w_loss": 0.001,
+    "w_energy": 0.1
+  },
+  "fps": 4,
+  "plateau_window": 5,
+  "plateau_tol": 0.005
+}

@@ -1,0 +1,69 @@
+{
+  "launch_id": "phase1-20260530-160638",
+  "config_kwargs": {
+    "K": 20,
+    "sigma": 0.1,
+    "alpha_1": 0.05,
+    "M": 250,
+    "eta": 0.01,
+    "log_every": 1,
+    "K_elite": null,
+    "w_crosstalk": 0.3,
+    "w_loss": 0.001,
+    "w_energy": 0.1
+  },
+  "training_indices": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27
+  ],
+  "spawned": [
+    {
+      "target_idx": 0,
+      "function_call_id": "fc-01KSXJ7DM5NN6PNSVB1CVXKYZM"
+    },
+    {
+      "target_idx": 3,
+      "function_call_id": "fc-01KSXJ7DRFTVPPA1M8F8FB0TK9"
+    },
+    {
+      "target_idx": 6,
+      "function_call_id": "fc-01KSXJ7DWV446EZETAW818XNYJ"
+    },
+    {
+      "target_idx": 9,
+      "function_call_id": "fc-01KSXJ7E36JPAWFWR53D5HZ6QT"
+    },
+    {
+      "target_idx": 12,
+      "function_call_id": "fc-01KSXJ7E7DDGJ345R5Y4GWR5WG"
+    },
+    {
+      "target_idx": 15,
+      "function_call_id": "fc-01KSXJ7EBZQQ870RSTK2GXYVYP"
+    },
+    {
+      "target_idx": 18,
+      "function_call_id": "fc-01KSXJ7EH2J1F5RP1TVG55S707"
+    },
+    {
+      "target_idx": 21,
+      "function_call_id": "fc-01KSXJ7ENHN9NYX0RASGCX2Z1M"
+    },
+    {
+      "target_idx": 24,
+      "function_call_id": "fc-01KSXJ7ET1FZC57N9DTVHFJWPZ"
+    },
+    {
+      "target_idx": 27,
+      "function_call_id": "fc-01KSXJ7EYF9DGJ4XRPNTN63K4T"
+    }
+  ]
+}

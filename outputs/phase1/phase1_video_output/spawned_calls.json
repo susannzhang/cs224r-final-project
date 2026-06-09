@@ -1,0 +1,76 @@
+{
+  "config_kwargs": {
+    "K": 20,
+    "sigma": 0.1,
+    "alpha_1": 0.05,
+    "M": 80,
+    "eta": 0.01,
+    "log_every": 1,
+    "K_elite": null,
+    "w_crosstalk": 0.3,
+    "w_loss": 0.001,
+    "w_energy": 0.1
+  },
+  "training_indices": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27
+  ],
+  "fps": 4,
+  "plateau_window": 10,
+  "plateau_tol": 0.005,
+  "figsize": [
+    12.0,
+    10.0
+  ],
+  "dpi": 90,
+  "spawned": [
+    {
+      "target_idx": 0,
+      "function_call_id": "fc-01KTAVR0MS9QK93BB4JRM3MNY0"
+    },
+    {
+      "target_idx": 3,
+      "function_call_id": "fc-01KTAVR0SE474172FDNTFFGREK"
+    },
+    {
+      "target_idx": 6,
+      "function_call_id": "fc-01KTAVR0Y85PK9HYAHZETPTX10"
+    },
+    {
+      "target_idx": 9,
+      "function_call_id": "fc-01KTAVR136WBVX6AKWC3GKBVCC"
+    },
+    {
+      "target_idx": 12,
+      "function_call_id": "fc-01KTAVR180YKN2PYE0G1YHZ40Y"
+    },
+    {
+      "target_idx": 15,
+      "function_call_id": "fc-01KTAVR1CXKA3G17PMV99MAPRZ"
+    },
+    {
+      "target_idx": 18,
+      "function_call_id": "fc-01KTAVR1HPW09TFZVAV7KR5T74"
+    },
+    {
+      "target_idx": 21,
+      "function_call_id": "fc-01KTAVR1PD5RS2DD0E8K7QPGK2"
+    },
+    {
+      "target_idx": 24,
+      "function_call_id": "fc-01KTAVR1V4YNPS8786RHRX4RE6"
+    },
+    {
+      "target_idx": 27,
+      "function_call_id": "fc-01KTAVR1ZBP2DK308T60FWKAQJ"
+    }
+  ]
+}
